@@ -1,0 +1,18 @@
+
+
+.details { 
+  margin-bottom: 20px;
+  padding:10px;
+  border-radius:3em;
+  width:40%;
+  background-color:rgb(226,220,220);
+}
+
+.container {
+  padding:20px;
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  width:100%;
+}
